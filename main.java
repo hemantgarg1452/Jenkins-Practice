@@ -8,6 +8,9 @@ public class main {
         System.out.println("I'll master in Jenkins and CI/CD Pipelines Soon");
 
         System.out.println("Trying to check build with a change");
+
+        student st = new student();
+        st.sayBuild();
     }
 
 }
